@@ -2,21 +2,21 @@ PODS:
   - ConsistencyManager (5.1.2)
 
 DEPENDENCIES:
-  - ConsistencyManager (from `https://github.com/linkedin/ConsistencyManager-iOS`, commit `e75ed7a`)
+  - ConsistencyManager (from `https://github.com/linkedin/ConsistencyManager-iOS`, commit `e75ed7adec5ec0eeebfa649262357dbe029cefe6`)
 
 EXTERNAL SOURCES:
   ConsistencyManager:
-    :commit: e75ed7a
+    :commit: e75ed7adec5ec0eeebfa649262357dbe029cefe6
     :git: https://github.com/linkedin/ConsistencyManager-iOS
 
 CHECKOUT OPTIONS:
   ConsistencyManager:
-    :commit: e75ed7a
+    :commit: e75ed7adec5ec0eeebfa649262357dbe029cefe6
     :git: https://github.com/linkedin/ConsistencyManager-iOS
 
 SPEC CHECKSUMS:
   ConsistencyManager: bfede3b323f0441e0ed6adfef27ef60c09b98919
 
-PODFILE CHECKSUM: 85783e5cdb002be56b872ab87a2b3bf2e94b4b33
+PODFILE CHECKSUM: d708691e24f88c4663afea30869ea4e903c43f8e
 
 COCOAPODS: 1.3.1

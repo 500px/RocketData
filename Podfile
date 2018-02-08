@@ -3,11 +3,11 @@
 use_frameworks!
 
 target :'RocketData' do
-  pod 'ConsistencyManager', :git => 'https://github.com/linkedin/ConsistencyManager-iOS', :commit => 'e75ed7a'
+  pod 'ConsistencyManager', :git => 'https://github.com/linkedin/ConsistencyManager-iOS', :commit => 'e75ed7adec5ec0eeebfa649262357dbe029cefe6'
 end
 
 target :'RocketDataTests' do
-  pod 'ConsistencyManager', :git => 'https://github.com/linkedin/ConsistencyManager-iOS', :commit => 'e75ed7a'
+  pod 'ConsistencyManager', :git => 'https://github.com/linkedin/ConsistencyManager-iOS', :commit => 'e75ed7adec5ec0eeebfa649262357dbe029cefe6'
 end
 
 # This is necessary to convert the target to swift 4.0
